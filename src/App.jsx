@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import "./assets/tailwind.css";
 import Home from './pages/Home';
 import GroupDetail from './pages/GroupDetail';
 
