@@ -11,7 +11,7 @@ function App() {
         <Route path="/group/:id" element={<GroupDetail />} />
       </Routes>
     </Router>
-  );
+  )
 }
 
 export default App;
